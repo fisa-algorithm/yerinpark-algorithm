@@ -1,9 +1,6 @@
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.util.HashMap;
-import java.util.Map;
+package Jan_2nd;
+
 import java.util.Stack;
-import java.util.StringTokenizer;
 
 class Solution {
     public int solution(String s) {
